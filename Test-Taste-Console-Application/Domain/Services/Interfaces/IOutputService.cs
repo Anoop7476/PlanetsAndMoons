@@ -8,5 +8,6 @@
         void OutputAllPlanetsAndTheirMoonsToConsole();
         void OutputAllMoonsAndTheirMassToConsole();
         void OutputAllPlanetsAndTheirAverageMoonGravityToConsole();
+        void OutputAllPlanetsWithMoonsAndAverageMoonTemperatureToConsole();
     }
 }
